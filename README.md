@@ -34,13 +34,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajay-nunugoppula&theme=radical&no-frame=true&column=7" />
-</p>
-
----
-
 ### 📚 Certifications
 - 🥇 [Java Programming – NPTEL Top 2%](#)
 - 🧠 [Foundation in DS & Programming – IIT Madras](#)
