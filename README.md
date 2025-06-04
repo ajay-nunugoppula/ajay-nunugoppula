@@ -41,17 +41,6 @@
 
 ---
 
-### 📢 Projects
-| Project | Description | Tech Stack | Impact |
-|--------|-------------|------------|--------|
-| [📘 HOD Diary App]| Role-based dashboard to replace manual evaluations | Django, JS, PostgreSQL | Boosted admin efficiency by 30% |
-| [🌐 Campus Synergy] | Campus-wide student engagement portal | PHP, JS, Bootstrap | Used by 200+ students |
-| [📥 Exam Resource Site](#) | Study material hub with 100k+ downloads | HTML, CSS, Bootstrap | Helped 1,00,000+ students |
-| [🧠 Python Bot](#) | Voice-activated bot for automation | Python, BS4, SpeechRecognition | Productivity enhancement |
-| [📝 Level Up Synergy] | Community platform for tech articles | HTML, JS, PHP |
-
----
-
 ### 📚 Certifications
 - 🥇 [Java Programming – NPTEL Top 2%](#)
 - 🧠 [Foundation in DS & Programming – IIT Madras](#)
