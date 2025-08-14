@@ -20,7 +20,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,bootstrap,vuejs,django,postgres,celery,redis,php,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,bootstrap,vuejs,flask,django,postgres,pinia,redis,postman,php,mysql,git,vscode,eclipse,pycharm,github,sqlite,figma,aws,gcp,r,arduino,ae,pr" />
 </p>
 
 ---
